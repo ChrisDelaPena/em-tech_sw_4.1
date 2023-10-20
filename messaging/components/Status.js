@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     messageContainer: {
         zIndex: 1,
         position: 'absolute',
-        top: statusHeight + 50,
+        top: statusHeight + 20,
         right: 0,
         left: 0,
         height: 80,
